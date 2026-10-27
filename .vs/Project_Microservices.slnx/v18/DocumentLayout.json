@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\All_Projects\\Project_Microservices\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C8C8861F-B9E8-4D17-9DF6-DFD424EBF2B0}|ProductService\\ProductService.csproj|d:\\all_projects\\project_microservices\\productservice\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8C8861F-B9E8-4D17-9DF6-DFD424EBF2B0}|ProductService\\ProductService.csproj|solutionrelative:productservice\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5462095B-A7DA-4240-A87A-8EE07022E526}|OrderService\\OrderService.csproj|d:\\all_projects\\project_microservices\\orderservice\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5462095B-A7DA-4240-A87A-8EE07022E526}|OrderService\\OrderService.csproj|solutionrelative:orderservice\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8C8861F-B9E8-4D17-9DF6-DFD424EBF2B0}|ProductService\\ProductService.csproj|d:\\all_projects\\project_microservices\\productservice\\models\\productmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8C8861F-B9E8-4D17-9DF6-DFD424EBF2B0}|ProductService\\ProductService.csproj|solutionrelative:productservice\\models\\productmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5462095B-A7DA-4240-A87A-8EE07022E526}|OrderService\\OrderService.csproj|d:\\all_projects\\project_microservices\\orderservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5462095B-A7DA-4240-A87A-8EE07022E526}|OrderService\\OrderService.csproj|solutionrelative:orderservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5462095B-A7DA-4240-A87A-8EE07022E526}|OrderService\\OrderService.csproj|d:\\all_projects\\project_microservices\\orderservice\\models\\ordermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5462095B-A7DA-4240-A87A-8EE07022E526}|OrderService\\OrderService.csproj|solutionrelative:orderservice\\models\\ordermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8C8861F-B9E8-4D17-9DF6-DFD424EBF2B0}|ProductService\\ProductService.csproj|d:\\all_projects\\project_microservices\\productservice\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8C8861F-B9E8-4D17-9DF6-DFD424EBF2B0}|ProductService\\ProductService.csproj|solutionrelative:productservice\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "D:\\All_Projects\\Project_Microservices\\OrderService\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "OrderService\\Controllers\\OrderController.cs",
+              "ToolTip": "D:\\All_Projects\\Project_Microservices\\OrderService\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "OrderService\\Controllers\\OrderController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-26T09:49:03.206Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\All_Projects\\Project_Microservices\\OrderService\\Program.cs",
+              "RelativeDocumentMoniker": "OrderService\\Program.cs",
+              "ToolTip": "D:\\All_Projects\\Project_Microservices\\OrderService\\Program.cs",
+              "RelativeToolTip": "OrderService\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-26T08:17:53.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OrderModel.cs",
+              "DocumentMoniker": "D:\\All_Projects\\Project_Microservices\\OrderService\\Models\\OrderModel.cs",
+              "RelativeDocumentMoniker": "OrderService\\Models\\OrderModel.cs",
+              "ToolTip": "D:\\All_Projects\\Project_Microservices\\OrderService\\Models\\OrderModel.cs",
+              "RelativeToolTip": "OrderService\\Models\\OrderModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-26T08:13:46.602Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "D:\\All_Projects\\Project_Microservices\\ProductService\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "ProductService\\Controllers\\ProductController.cs",
+              "ToolTip": "D:\\All_Projects\\Project_Microservices\\ProductService\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "ProductService\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-26T07:50:51.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductModel.cs",
+              "DocumentMoniker": "D:\\All_Projects\\Project_Microservices\\ProductService\\Models\\ProductModel.cs",
+              "RelativeDocumentMoniker": "ProductService\\Models\\ProductModel.cs",
+              "ToolTip": "D:\\All_Projects\\Project_Microservices\\ProductService\\Models\\ProductModel.cs",
+              "RelativeToolTip": "ProductService\\Models\\ProductModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-26T07:46:43.607Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "D:\\All_Projects\\Project_Microservices\\ProductService\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "ProductService\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "D:\\All_Projects\\Project_Microservices\\ProductService\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "ProductService\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-26T07:44:34.148Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
